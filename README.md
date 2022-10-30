@@ -46,3 +46,6 @@ as I mentioned in my email, in these two locations:
 
 https://github.com/nestjs/nest/blob/master/packages/microservices/context/rpc-context-creator.ts#L58
 https://github.com/nestjs/nest/blob/master/packages/core/interceptors/interceptors-consumer.ts#L13
+
+To reiterate, I can probably handle the PR vis-a-vis NestJS myself if need be, but my problem
+is that I don't understand what part of NestJS' code breaks the tracer.
