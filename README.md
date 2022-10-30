@@ -1,5 +1,4 @@
 <h1>Installation</h1>
-<hr>
 <h2>RabbitMQ</h2>
 You need to run a RabbitMQ server.
 
@@ -12,10 +11,9 @@ a new `.env.[..]` file and set `NODE_ENV=[..]` to whatever it
 is, e.g. local.
 
 <h2>Node.js</h2>
-Node.js 16.10.0, with TypeScript4.5.4 and NPM.
+Node.js 16.10.0
 
 <h1>Running</h1>
-<hr>
 To debug the Datadog Tracer, you will need to run a server,
 and then run a test which will stimulate the server with some
 message.
